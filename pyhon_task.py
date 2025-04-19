@@ -28,6 +28,8 @@ print(f"0'dan {sayi}'ye kadar olan çift sayılar: {cift_sayilar}")
 
 # 4: Log(x, y) hesaplama
 
+
+
 while True:
     x = float(input("Taban (x): "))
     y = float(input("Sayı (y): "))
