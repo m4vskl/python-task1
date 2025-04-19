@@ -31,6 +31,7 @@ print(f"0'dan {sayi}'ye kadar olan çift sayılar: {cift_sayilar}")
 
 
 
+
 while True:
     x = float(input("Taban (x): "))
     y = float(input("Sayı (y): "))
